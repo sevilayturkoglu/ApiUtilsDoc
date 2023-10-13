@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="4.831">
+    <testcase classname="All queries in the Accouts section are performed via API" name="User cannot register with unnamed data via API" time="4.526">
+        <system-out><![CDATA[Given Api user sets "api/Accounts/signup" path parameters...................passed
+And Request body is:........................................................passed
+And Sends POST request with Body and valid Authorization....................passed
+But Verifies that the returned status code is 400...........................passed
+But Verifies that the response "errors.Email[0]" value is "'Email' ist keine gültige E-Mail-Adresse.".passed
+]]></system-out>
+    </testcase>
+</testsuite>

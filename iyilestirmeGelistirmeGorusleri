@@ -1,0 +1,18 @@
+Degerli Arkadaslar bu kısıma
+>framework guncellemeleri (dependencie surumleri vs),
+>dependencie yonetimleri (gerekli, gereksiz vs)
+>clean kod prensibi
+>egitim ve bilgi paylasma
+
+gibi konularda gorus belirtebilirsiniz. Bunun icin simdiden Tesekkur Ederiz
+
+Iyilestirme Gorusleri
+1. Mustafa => pom.xml e eklenecek bir dependencie ile sorgularda yer alan "spec" satırı kaldırılabilir
+2. Sevilay => Request body'leri sorgu satırında tekrar toString'e cevirmemek icin
+              JSON objesi olarak degil string body olarak da yollamak mumkun.
+3.
+
+Gelistirme Gorusleri
+1. Raporlamada Allure report kullanmak daha kullanıslı sunum saglayabilir
+2.
+
